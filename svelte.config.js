@@ -1,4 +1,4 @@
-import adapter from '@sveltejs/adapter-netlify';
+const adapter = require('@sveltejs/adapter-vercel');
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -10,4 +10,4 @@ const config = {
   }
 };
 
-export default config;
+module.exports = config;
