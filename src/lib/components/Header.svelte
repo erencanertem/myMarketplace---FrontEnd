@@ -37,7 +37,7 @@
 
 <header class="bg-white shadow-md">
 	<nav class="container mx-auto flex items-center justify-between px-4 py-3">
-		<a href="/" class="text-xl font-bold">Mağazam</a>
+		<a href="/" class="text-xl font-bold">Benim Mağazam</a>
 
 		<!-- Desktop Menu -->
 		<div class="hidden items-center gap-6 md:flex">
